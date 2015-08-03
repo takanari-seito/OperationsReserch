@@ -15,7 +15,7 @@ public class SecretaryProblem {
 
 	public static void main(String[] args) {
 		int n = 100;	//候補者人数
-		int r = 100000;	//繰り返し回数
+		int r = 10000;	//繰り返し回数
 		int[] a = new int[n];
 		int[] xa = new int[n];
 		int mx = 0;
